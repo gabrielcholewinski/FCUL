@@ -1,1 +1,1 @@
-PROJETO DCO SUAS PUTAS!
+Projeto DCO
