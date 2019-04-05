@@ -1,0 +1,29 @@
+$(OBJ_DIR)/cliente.o: $(SRC_DIR)/cliente.c $(CLIENTE_inc)
+		gcc -c $(SRC_DIR)/cliente.c -o $(OBJ_DIR)/cliente.o
+
+$(OBJ_DIR)/control.o: $(SRC_DIR)/control.c $(CONTROL_inc)
+		gcc -c $(SRC_DIR)/control.c -o $(OBJ_DIR)/control.o
+
+$(OBJ_DIR)/empresa.o: $(SRC_DIR)/empresa.c $(EMPRESA_inc)
+		gcc -c $(SRC_DIR)/empresa.c -o $(OBJ_DIR)/empresa.o
+
+$(OBJ_DIR)/file.o: $(SRC_DIR)/file.c $(TRES_INC) $(SO_PROD_inc) $(INC_dir)/file.h $(INC_dir)/scheduler.h
+		gcc -c $(SRC_DIR)/file.c -o $(OBJ_DIR)/file.o
+
+$(OBJ_DIR)/intermediario.o: $(SRC_DIR)/intermediario.c $(INTER_inc)
+		gcc -c $(SRC_DIR)/intermediario.c -o $(OBJ_DIR)/intermediario.o
+
+$(OBJ_DIR)/main.o: $(SRC_DIR)/main.c $(MAIN_inc)
+		gcc -c $(SRC_DIR)/main.c -o $(OBJ_DIR)/main.o
+
+$(OBJ_DIR)/memory.o: $(SRC_DIR)/memory.c $(MEMORY_inc)
+		gcc -c $(SRC_DIR)/memory.c -o $(OBJ_DIR)/memory.o
+
+$(OBJ_DIR)/prodcons.o: $(SRC_DIR)/prodcons.c $(PROD_inc)
+		gcc -c $(SRC_DIR)/prodcons.c -o $(OBJ_DIR)/prodcons.o
+
+$(OBJ_DIR)/scheduler.o: $(SRC_DIR)/scheduler.c $(SCHE_inc)
+		gcc -c $(SRC_DIR)/scheduler.c -o $(OBJ_DIR)/scheduler.o
+
+$(OBJ_DIR)/time.o: $(SRC_DIR)/time.c $(TIME_inc)
+		gcc -c $(SRC_DIR)/time.c -o $(OBJ_DIR)/time.o
