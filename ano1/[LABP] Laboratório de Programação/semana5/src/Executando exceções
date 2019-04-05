@@ -1,0 +1,16 @@
+
+public class Principal {
+
+	public static void main(String[] args) {
+			int[] v = new int[4];
+			System.out.println("Before exception");
+			
+			try {
+				v[10] = 1;
+			}catch (ArrayIndexOutOfBoundsException e){
+				System.out.println("[During exception]");
+			}
+			System.out.println("After exception");
+	}
+
+}

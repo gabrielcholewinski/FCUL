@@ -1,0 +1,55 @@
+---INICIO---
+---MAX URL ALOJADOS: 15---
+---GTLD (DOMINIOS DE TOPO)--: com mil pt 
+---
+---COMANDOS---
+REGISTO da organizacao uLisboa com endereco Internet ulisboa.pt
+REGISTO da organizacao fct com endereco Internet fct.pt
+REGISTO da organizacao govPt com endereco Internet gov.pt
+REGISTO da organizacao defense com endereco Internet def.mil
+REGISTO da organizacao comp1 com endereco Internet comp1.com
+REGISTO da organizacao comp2 com endereco Internet comp2.com
+REGISTO da organizacao comp3 com endereco Internet comp3.com
+REGISTO da organizacao comp4 com endereco Internet comp4.com
+REGISTO da organizacao comp5 com endereco Internet comp5.com
+REGISTO da organizacao comp6 com endereco Internet comp6.com
+REGISTO da organizacao comp7 com endereco Internet comp7.com
+GERACAO do URL de govPt, ENDERECO : 12b5f5b1.pt, IP : 100.1.1.1
+GERACAO do URL de uLisboa, ENDERECO : 4dd017b7.pt, IP : 100.1.1.2
+GERACAO do URL de fct, ENDERECO : c35b401f.pt, IP : 100.1.1.3
+GERACAO do URL de comp7, ENDERECO : 8d8d266d.com, IP : 100.1.1.1
+GERACAO do URL de comp6, ENDERECO : 8bd84dcd.com, IP : 100.1.1.2
+GERACAO do URL de comp5, ENDERECO : 8a23752d.com, IP : 100.1.1.3
+GERACAO do URL de comp4, ENDERECO : 886e9c8d.com, IP : 100.1.1.1
+GERACAO do URL de comp3, ENDERECO : 86b9c3ed.com, IP : 100.1.1.2
+ERRO: Nao foi possivel gerar um URL para comp2
+ERRO: Nao foi possivel gerar um URL para comp1
+GERACAO do URL de defense, ENDERECO : 85dbe8e8.mil, IP : 100.1.1.3
+A ORGANIZACAO govPt tem atribuido o URL : 12b5f5b1.pt
+TOTAL de organizacoes registadas: 11
+TOTAL de URL alojados: 9
+TOTAL de organizacoes registadas de dominio com : 7
+TOTAL de URL alojados de dominio com : 5
+TOTAL de organizacoes registadas de dominio pt : 3
+TOTAL de URL alojados de dominio pt : 3
+TOTAL de organizacoes registadas de dominio mil : 1
+TOTAL de URL alojados de dominio mil : 1
+O DONO da posicao no.1 no dominio pt e' : govPt
+O DONO da posicao no.2 no dominio com e' : comp6
+URL no.2, dominio mil, SEM ORGANIZACAO atribuida
+A ORGANIZACAO govPt esta' no DOMINIO : pt
+A ORGANIZACAO comp5 esta' no DOMINIO : com
+REMOCAO da posicao no.4, dominio com,  URL : 886e9c8d.com, de comp4
+GERACAO do URL de comp1, ENDERECO : 835012ad.com, IP : 100.1.1.1
+REMOCAO URL 86b9c3ed.com, dominio com, de comp3
+O DONO da posicao no.4 no dominio com e' : comp1
+URL no.5, dominio com, SEM ORGANIZACAO atribuida
+TOTAL de organizacoes registadas: 11
+TOTAL de URL alojados: 8
+TOTAL de organizacoes registadas de dominio com : 7
+TOTAL de URL alojados de dominio com : 4
+TOTAL de organizacoes registadas de dominio pt : 3
+TOTAL de URL alojados de dominio pt : 3
+TOTAL de organizacoes registadas de dominio mil : 1
+TOTAL de URL alojados de dominio mil : 1
+---FIM---

@@ -1,0 +1,46 @@
+-- executar como input_8_4.txt 8 mil pt com org 
+-
+- o ficheiro de entrada contem linhas de comentario e linhas 
+- com comandos; as linhas de comentario começam por "-"
+-
+--- registar organizacoes
+registarOrganizacao-uLisboa-ulisboa.pt
+registarOrganizacao-fct-fct.pt
+registarOrganizacao-govPt-gov.pt
+-
+registarOrganizacao-defense-def.mil
+-
+---
+gerarUrl-govPt
+gerarUrl-uLisboa
+gerarUrl-fct
+-
+obterUrl-govPt
+-
+gerarUrl-defense
+-
+total
+- 
+total-com
+total-org
+total-pt
+total-mil
+-
+obterDono-pt-1
+obterDono-pt-2
+-
+-
+obterDono-mil-1
+obterDono-mil-2
+-
+obterDominio-govPt
+-
+removerUrlDominio-pt-1
+obterDominio-govPt
+obterUrl-uLisboa
+-
+gerarUrl-fct
+-
+removerUrlOrg-defense
+-
+obterDono-mil-1 
