@@ -1,0 +1,6 @@
+package fase4;
+
+public enum EstadoOutro {
+	  ATINGIDO_SABRE, CHOCOU_MONIUS, CAIU_BURACO_NEGRO, SEM_STAMINA, EM_JOGO, CHEGOU;
+	}
+

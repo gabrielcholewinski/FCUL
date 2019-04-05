@@ -1,0 +1,4 @@
+package fase4;
+public enum EstadoJogo {
+	  EM_CURSO, OUTRO_TERMINOU, NAO_HA_MONIUS, NAO_HA_OUTROS, MAX_JOGADAS, NAO_HA_NINGUEM;
+	}
